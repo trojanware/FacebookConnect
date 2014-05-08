@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.phonegap.plugins.facebookconnect.fork"
+    id="com.hi.facebookconnect"
     version="0.4.1">
 
     <name>Facebook Connect Fork</name>
     
     <description>
+      This is forked from the official plugin for facebook to resolve error regarding usage of
+      private api while submission of application to Apple app store.
       &lt;p&gt;This is the official plugin for Facebook in Apache Cordova/PhoneGap!&lt;/p&gt;
       
       &lt;p&gt;The Facebook plugin for Apache Cordova allows you to use the same JavaScript code in your
